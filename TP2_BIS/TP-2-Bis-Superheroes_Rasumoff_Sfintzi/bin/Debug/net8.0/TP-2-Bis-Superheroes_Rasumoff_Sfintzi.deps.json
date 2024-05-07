@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TP-2-Bis-Superheroes_Rasumoff_Sfintzi/1.0.0": {
+        "runtime": {
+          "TP-2-Bis-Superheroes_Rasumoff_Sfintzi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP-2-Bis-Superheroes_Rasumoff_Sfintzi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

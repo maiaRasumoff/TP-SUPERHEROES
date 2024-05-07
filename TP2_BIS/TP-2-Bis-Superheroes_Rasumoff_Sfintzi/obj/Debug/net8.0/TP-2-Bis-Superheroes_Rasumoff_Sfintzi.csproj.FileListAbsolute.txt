@@ -1,0 +1,14 @@
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\bin\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.exe
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\bin\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.deps.json
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\bin\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.runtimeconfig.json
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\bin\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.dll
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\bin\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.pdb
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.AssemblyInfoInputs.cache
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.AssemblyInfo.cs
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.csproj.CoreCompileInputs.cache
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.dll
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\refint\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.dll
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.pdb
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.genruntimeconfig.cache
+Z:\2024\Programacion\TP-2-Bis-Superheroes_Rasumoff_Sfintzi\obj\Debug\net8.0\ref\TP-2-Bis-Superheroes_Rasumoff_Sfintzi.dll
